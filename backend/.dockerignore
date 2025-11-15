@@ -1,0 +1,4 @@
+__pycache__
+*.pyc
+sql_runner.db
+.git
